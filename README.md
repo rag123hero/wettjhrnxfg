@@ -1,1 +1,6 @@
-# wettjhrnxfg
+BARTAR SYSTEM
+USAGE
+
+DO npm install FIRST 
+
+ONCE IT IS DONE THEN DO expo start
